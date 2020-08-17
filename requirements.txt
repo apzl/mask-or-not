@@ -2,5 +2,4 @@ streamlit
 torch==1.6.0
 torchvision==0.7.0
 fastai==1.0.61
-pillow==6.2.1
 
