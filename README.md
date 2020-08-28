@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/{apzl}/{mask-or-not}.png?branch=master)](https://travis-ci.org/{apzl}/{mask-or-not})
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![HitCount](http://hits.dwyl.com/apzl/mask-or-not.svg)](http://hits.dwyl.com/apzl/mask-or-not)
