@@ -12,4 +12,4 @@ find more details in the notebook.
 ![demo image](mask-or-not.png).
 
 
-PS: Don't mind the accuracy.
+
